@@ -1,0 +1,5 @@
+PAUSEFOR 10
+TYPE <C:\Users\zalka\Desktop\autoInput\requInput\on_rui.txt 2><C:\Users\zalka\Desktop\autoInput\requInput\on_rui.txt 3>
+KEYCODE enter
+TYPE And that's a FACT!
+
